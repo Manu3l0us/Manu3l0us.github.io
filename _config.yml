@@ -7,7 +7,7 @@ theme:
   # Meta
   title: Manuel's Blog
   avatar: avatar.png
-  gravatar: 20baf2797654c1446adfc90e20166f4e
+  gravatar: #
   description: "A website with blog posts and pages" # used by search engines
   
   # Header and footer text
