@@ -9,33 +9,41 @@ theme:
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
-  
+
   # Header and footer text
   header_text: >
-     <p>Work in Progress</p>  header_text_feature_image:
+     <p>Work in Progress</p>
+  header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
-  
+
   # Icons
   rss: false
   email_address: manuel.aebischer@gmail.com
   behance:
-  facebook: 
+  bitbucket:
+  dribbble:
+  facebook:
   flickr:
   github: "Manu3l0us"
-  instagram: 
+  google_plus:
+  instagram:
   linkedin:  # Full URL
-  soundcloud: 
+  pinterest:
+  reddit:
+  soundcloud:
   stack_exchange:  # Full URL
-  tumblr: 
+  steam:
   tumblr:
-  twitter:
-  youtube: 
-  
+  twitter: "twitter"
+  wordpress:
+  youtube:
+
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
-  
+  katex: true # Enable if using math markup
+
   # Localization strings
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
@@ -43,7 +51,7 @@ theme:
   str_next: "Next"
   str_prev: "Prev"
   str_continue_reading: "Continue reading"
-  
+
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
   google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
